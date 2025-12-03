@@ -62,6 +62,7 @@ urllib3 = "==2.3.0"
 uvicorn = "==0.34.0"
 websockets = "==14.1"
 python-dotenv = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
