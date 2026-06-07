@@ -1,4 +1,4 @@
-# MediFusionAI — AI Voice Docto
+# MediFusionAI — AI Voice Doctor
 
 **MediFusion AI** is a voice-based AI doctor that analyzes speech and images to provide medical insights and predicts diseases using ML/DL models.
 
