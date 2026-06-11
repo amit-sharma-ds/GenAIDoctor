@@ -1,4 +1,4 @@
-# if you dont use pipenv uncomment the following:
+# if you dont use pipenv uncomment the following
 # from dotenv import load_doten
 # load_dotenv()
 
