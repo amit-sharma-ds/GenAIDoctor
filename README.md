@@ -2,6 +2,7 @@
 
 **MediFusion AI** is a voice-based AI doctor that analyzes speech and images to provide medical insights and predicts diseases using ML/DL models.
 
+!()[https://github.com/amit-sharma-ds/GenAIDoctor/blob/main/Outputs/Screenshot%202025-12-01%20232450.png]
 ---
 
 ## What It Does
